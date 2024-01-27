@@ -32,10 +32,7 @@ dependencies:
   google_fonts: ^4.0.4
 
   # Appcheap.io build in dependencies
-  ui:
-    path: ../ui
-  gutenberg_blocks:
-    path: ../gutenberg_blocks
+ 
   awesome_drawer_bar: ^1.2.0
   awesome_bottom_bar: ^1.2.3
   feather_icons: ^1.2.0
